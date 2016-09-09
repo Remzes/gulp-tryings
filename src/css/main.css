@@ -1,0 +1,9 @@
+body {
+  color: yellow; }
+
+body {
+  background: #656343;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
